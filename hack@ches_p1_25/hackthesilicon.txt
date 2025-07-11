@@ -1,0 +1,18 @@
+Hack@CHES’25 Code License
+
+Copyright (c) 2025 HackTheSilicon. All rights reserved.
+
+This project contains content provided during Hack@CHES’25 and is the intellectual property of HackTheSilicon. The content is protected by copyright and may only be used under the following terms:
+
+Confidentiality
+All content shared with you during Hack@CHES’25 is confidential and intended solely for use within your designated group. Do not share any part of this content with individuals outside your group without explicit permission.
+
+Attribution
+If you make use of any materials from Hack@CHES’25 or HackTheSilicon, you must include proper attribution as follows:
+Reference: hackthesilicon.com
+Citation: “Hack@CHES’25”
+
+Third-Party Sharing
+Sharing any portion of the code or content with third parties requires prior written authorization from HackTheSilicon.
+
+By using this code or any accompanying materials, you agree to the terms stated above.
