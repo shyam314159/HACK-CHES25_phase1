@@ -1,7 +1,7 @@
 # Bug Submission #1 - Debug Access Control Bypass
 
 ## Bug Information
-**Team name**: Security Researchers  
+**Team name**: Ultron  
 **Bug number**: 1  
 **Security feature bypassed**: Debug access control and privilege validation  
 
