@@ -1,7 +1,7 @@
 # Bug Submission #2 - Debug Reset State Persistence
 
 ## Bug Information
-**Team name**: Security Researchers  
+**Team name**: Ultron  
 **Bug number**: 2  
 **Security feature bypassed**: Debug module reset and state isolation  
 
